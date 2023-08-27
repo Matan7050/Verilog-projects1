@@ -1,2 +1,2 @@
 # Verilog-project
-#Thats my first try verilog files,that i build
+#Thats my first experience with verilog files,that i build with model sim.
